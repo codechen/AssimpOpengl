@@ -1,0 +1,24 @@
+newmtl Model001_Material001
+map_Kd WW_Cine1_D_Low.png
+map_bump WW_Cine1_N.png
+
+newmtl Model001_Material002
+map_Kd WW_Cine1_D_Low.png
+map_bump WW_Cine1_N.png
+
+newmtl Model002_Material001
+map_Kd WW_Cine1_Shield_D_Low.png
+map_bump WW_Cine1_Shield_N.png
+
+newmtl Model003_Material001
+map_Kd WW_Cine1_Sword_A.png
+map_bump WW_Cine1_Sword_N.png
+
+newmtl Model004_Material001
+map_Kd lasso_d.png
+map_bump lasso_n.png
+
+newmtl Model004_Material002
+map_Kd lasso_d.png
+map_bump lasso_n.png
+
